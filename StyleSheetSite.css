@@ -3,7 +3,7 @@ html {
     box-sizing: border-box
 }
 #buttons {
-    color: #6b8c79;
+    color: #89ab97;
 }
 *, *:before, *:after {
     box-sizing: inherit
@@ -217,7 +217,7 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #6b8c79;
+    color: #89ab97;
     font-family: "Segoe UI",Arial,sans-serif;
     font-weight: 400;
     margin: 10px 0;
@@ -1483,7 +1483,7 @@ a {
 
 .w3-black, .w3-hover-black:hover {
     color: #fff !important;
-    background-color: #000 !important
+    background-color: #89ab97 !important
 }
 
 .w3-grey, .w3-hover-grey:hover, .w3-gray, .w3-hover-gray:hover {
